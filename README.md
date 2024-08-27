@@ -88,4 +88,4 @@ To enable SSL/TLS:
    openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes
    ```
 
-2. Update the server and client code
+2. Update the server and client code (Still incomplete)
